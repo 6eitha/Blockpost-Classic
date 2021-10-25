@@ -1,0 +1,428 @@
+_GAMENAME|BLOCKPOST
+_LANGUAGE_TRANSLATION|번역: 스팀유저
+_LANGUAGE_NAME|한국어
+_BONUS_LEFT|다음 보너스 까지 {0}시 {1}분
+_DAY|일
+_COME_EVER_DAY|매일 보너스와 함께 게임을 로그인 하세요!
+_CONTINUE|계속
+_COLLECT|받기
+_RECEIVED|받았습니다
+_REQUIRES_KEY|키 필요
+_GOTO_STORE|상점으로 가기
+_USED_KEY|키 사용함
+_OPEN_CASE_EMUL|상자 열기 (에뮬레이터)
+_OPEN_CASE|상자 열기
+_SOLDIER|군인
+_SERGEANT|중사
+_COMMANDER|사령관
+_CAPTAIN|대장
+_LEAVE_CLAN|클랜 떠나기
+_LEAVE_CLAN_CONFIRM|클랜 떠나기 (확인)
+_CANCEL|취소
+_FIND_CLAN|클랜 찾기
+_CREATE_CLAN|클랜 생성
+_LOOKFOR|찾기
+_SEARCH|검색...
+_CLAN_NAME|클랜 이름
+_PARTY|팀원
+_FOUNDER|주인
+_ADMISSION|입장 유형
+_SUBMISSION_FOR_BID|클랜 참여는 레벨 10부터 가능합니다
+_CLAN_NOT_ACCEPT|클랜 초대 닫힘
+_APPLY_TO_CLAN|클랜 참가 요청
+_SEND|보내기
+_IS_OPEN|열림
+_IS_CLOSE|닫힘
+_SHOW_LAST_CLANS|마지막 클랜 25개 표시
+_REBUILD_CLAN|클랜 복구
+_CREATURE|개설 중...
+_CLAN_CREATION_AVAILABLE|클랜 개설은 레벨 15부터 가능합니다
+_ATTENTION_NAME|노트: 영어와 러시아어만 입력할 수 있습니다<br>숫자와 '_' '.' 문양도 사용할 수 있습니다<br>최소 3글자, 최대 16글자로 가능합니다
+_NUMBER_POSTS|메시지 수:
+_RENAME_CLAN|클랜 이름 변경
+_CLAN_STATUS|클랜 전적
+_CLAN_EXPANSION|클랜 확장
+_REMOVE_CLAN|클랜 삭제
+_REMOVE_CLAN_CONFIRM|클랜 삭제 (확인)
+_AVAILABLE_RENAME|이름 변경권 수:
+_RENAME|RENAME
+_RETURN|RETURN
+_CURRENT_STATUS_CLAN_OPEN|현재 클랜 상태 <color=#FF0>열림</color>
+_CLAN_TAKES_APPLICATION|클랜이 구성원을 위한 초대를 받습니다
+_CURRENT_STATUS_CLAN_CLOSE|현재 클랜 상태 <color=#FF0>닫힘</color>
+_CLAN_NOT_ACCEPT_APPLICATION|클랜이 구성원을 위한 초대를 받지 않습니다
+_CHANGE_STATUS|CHANGE STATUS
+_CURRENT_NUMBER_SLOTS|현재 슬롯 <color=#FF0>
+_YOUR_CLAN_MAXIMUM|<color=#0F0>클랜이 200 슬롯에 도달하였습니다</color>
+_SLOTS_AFTER_EXPANSION|슬롯 확장 이후
+_MAXIMUM_200|(최대 200)
+_COST_OPERATION|Cost operation 50 coin!
+_PLACE_WEAPON_CASE|Set 3 weapons for exchange <color=red>(weapons will be destroyed permanently)</color>, in result you will receive a special case.
+_PLACE_WEAPON_WEAPON|Set 3 weapons for modernization <color=red>(weapons will be destroyed permanently)</color>, in result you will receive a modded weapon.
+_PLACE_CASE_2_COIN|Set 1 case for sell <color=red>(case will be delete from inventory permanently)</color>, in result you will receive 2 coin.
+_PLACE_CASE_3_COIN|Set 1 case for sell <color=red>(case will be delete from inventory permanently)</color>, in result you will receive 1 coin.
+_PLACE_CASE_1_COIN|Set 1 case for sell <color=red>(case will be delete from inventory permanently)</color>, in result you will receive 1 coin.
+_WAITING_SERVER|서버 반응을 기다리는 중
+_START_DISARMAMENT|환전 시작
+_START_UPGRADE_NOT|현대화 시작 (개발 중)
+_SALE_WILL_BE|SELL WILL BE AVAILABLE THROUGH
+_START_SALE|팔기 시작
+_MAP_SAVED|맵 저장됨
+_CONSERVATION|맵 저장 중...
+_ENABLE_CHAT|채팅 켜기
+_DISABLE_CHAT|채팅 끄기
+_GAME_MENU|게임 메뉴
+_BACK_TO_GAME|게임으로 돌아가기
+_CHANGE_WEAPON|무기 변경
+_SAVE_MAP|맵 저장
+_EXIT_MAIN_MENU|메인 메뉴로 나가기
+_SET1|세트 1
+_SET2|세트 2
+_SET3|세트 3
+_PRIMARY|주 무기
+_SECONDARY|보조 무기
+_MELEE|근접 무기
+_BUILDING_BLOCK|블럭
+_ADDITIONAL|스페셜
+_COIN|코인
+_COINS|코인
+_VOICE|음성
+_VOICES|음성
+_DAMAGE|대미지
+_CAGE|탄창
+_STOCK|총알
+_RATE_FIRE|연사력
+_DISTANCE|사거리
+_ACCURACY|명중률
+_RELOAD_SPEED|장전 속도
+_RECOIL|반동
+_PROPERTIES|관통력
+_MOBILITY|기동성
+_OVERVIEW|보기
+_WEAR_WEAPON|무기 장착
+_REMOVE_WEAPON|무기 놓기
+_COLOR_SKIN|피부색 톤
+_COLOR_EYE|눈 색상
+_COLOR_HAIR|머리 색상
+_HAIRSTYLE|머리 스타일
+_EYE_TYPE|눈	
+_BEARD|수염
+_HAT|모자
+_BODY|몸
+_PANTS|바지
+_BOOTS|부츠
+_BASIC_LVL|베이직 Lv.
+_FRAGS|킬:
+_PROGRESS|진행도
+_WITHOUT_SIGHT|조준경 없음
+_NEW_MAP|새 맵
+_IS_LOADING|불러오는 중
+_NAME_MAP|맵 이름
+_SIZE_MAP|사이즈 맵
+_HEIGHT_MAP|높이
+_CREATE|개설
+_LOAD|불러오기
+_CHANGE_NAME|이름 변경
+_SAVING|저장 중...
+_PURCHASE_CHANGE_NAME|이름 변경권 구매 (2번)
+_BUY|구매
+_REGULAR_TASKS|기본 임무
+_ACTIVE_TASKS|임무 활성화
+_PROGRESS_ACTIVITIES|이 임무들은 언제나 수행할 수 있습니다
+_MUST_SELECT_TASK|임무를 수행하려면 반드시 하나를 골라야 합니다
+_NEW_LVL|새 레벨
+_REACH_LVL|레벨 %param%에 도달하세요
+_SHTORM_TROOPER|트루퍼
+_FRAGS_ASSAULT_RIFLE|돌격 소총으로 %param% 사살하세요
+_MADE_IN_RUSSIA|«메이드 인 러시아»
+_MADE_IN_RUSSIA2|«메이드 인 러시아 2»
+_FRAGS_RUSSIAN_WEAPON|러시아제 무기로 %param% 킬에 도달하세요
+_SNIPER|스나이퍼
+_FRAGS_SNIPER_RIFLE|저격 소총으로 1000 킬에 도달하세요
+_SECONDARY_WEAPON|보조 무기
+_FRAGS_PISTOL|권총으로 300 킬에 도달하세요
+_GIFT_CASE_ANNIVERSARY|상자 선물 기념
+_GIFT_KEY_ANNIVERSARY|키 선물 기념
+_FRAGS_HEADSHOT|헤드샷 500 킬에 도달하세요
+_VICTORY_DAY|승리의 날
+_GIFT_CASE_VICTORYDAY|승리의 날 상자 선물
+_GIFT_KEY_VICTORYDAY|승리의 날 열쇠 선물
+_VICTORY_CASE|빅토리 상자
+_FRAGS_ANY_WEAPON_THIS_CASE|<size=14>아무 무기로 1000 명을 사살하세요<br><color=orange>이 상자의 무기를 사용하면 진행도가 +50% 됩니다</color></size>
+_GIFT_CASE_HALLOWEEN|할로윈 상자 선물
+_GIFT_KEY_HALLOWEEN|할로윈 열쇠 선물
+_FRAGS_MELEE_WEAPON|근접 무기로 500 킬에 도달하세요
+_HAPPY_NEW_YEAR|해피 뉴 이어
+_FRAGS_ANY_WEAPON|아무 무기로 1000 킬에 도달하세요
+_REWARD|REWARD
+_AWARE_AWARD|보상 받기
+_SELECT_TASK|임무 선택
+_SELECTED|선택함
+_QUALITY_GRAPHICS|퀄리티
+_SWITCHED_OFF|끄기
+_SWITCHED_ON|켜기
+_CENTER|가운데
+_LEFT|왼쪽
+_WHITE|흰색
+_GREEN|초록색
+_YELLOW|노란색
+_BLUE|파란색
+_ORANGE|주황색
+_MEAN|보통
+_HIGH|높음
+_VERY_HIGH|매우 높음
+_LOW|낮음
+_ULTRA|울트라
+_RECRUIT|RECRUIT
+_COLOR_SIGHT|크로스헤어 색상
+_DISPLAY_LIFE|체력 표시
+_CHAT_FILTER|채팅 필터링
+_NETWORK_SURFACE|부드러운 네트워크
+_DEVELOPERS_MODE|개발자 모드
+_SCREEN_RESOLUTION|화면 해상도
+_DYNAMIC_LIGHTING|다이나믹 라이팅
+_BLICKS|BLICKS
+_PARTICLES|입자
+_SMOOTHING|매끄럽게
+_MOTION_BLUR|모션 블러
+_FULL_SCREEN|전체화면 단축키 <color=#FF0>F9</color>
+_MOUSE_SENSITIVITY|마우스 민감도
+_MOUSE_SENSITIVITY_AIM|마우스 민감도 (조준)
+_SOUND_VOLUME|사운드 볼륨
+_MUSIC_VOLUME|음악 볼륨
+_REPEAL|닫기
+_SAVE|저장
+_SETTINGS_SAVED|설정 저장!
+_BACK|뒤로
+_OFFICIAL_SERVER|공식 서버
+_USER_SERVER|유저 서버
+_BASIC_MODE_GAME|기본 게임모드와 맵
+_MODIFIED_MODE_GAME|커스텀 게임모드와 유저 제작 맵
+_HIDE_FULL_SERVER|꽉찬 서버 숨기기
+_HIDE_EMPTY_SERVER|빈 서버 숨기기
+_ALL_MODES|모든 모드
+_FILTER_TDM|팀 데스매치
+_FILTER_FFA|개인전
+_FILTER_SHOVEL|삽 배틀
+_FILTER_ELIMINATION|전멸전
+_MODE_TDM|팀 데스매치
+_MODE_SHOVEL|삽 배틀
+_MODE_FFA|개인전
+_MODE_TEST|테스트 모드
+_MODE_ELIMINATION|전멸전
+_MODE_INFECTION|감염
+_RENDER_DEV|RENDER CHAR
+_RENDER_CASE|RENDER CASE
+_EDITOR_SKIN|스킨 에디터
+_EDITOR_MAP|맵 에디터
+_SQUAD|SQUAD
+_CREATE_SERVER|서버 생성
+_REFRESH_SERVER|목록 새로고침
+_SERVER|서버
+_MODE|모드
+_PLAYERS|플레이어
+_LEVEL|레벨
+_CONNECT|연결
+_TEST_MAP|테스트 맵
+_LOAD_MAP|맵 불러오기
+_NEW_MAP|새 맵
+_NEW_SKIN|새 스킨
+_LOAD_SKIN|스킨 불러오기
+_EXPA|경험치:
+_LEVEL_PROGRESS|레벨 현황:
+_DEATH|사망:
+_RATIO|K/D 전적:
+_ASSIST|도움:
+_HEADSHOT|헤드샷:
+_PLAYER|플레이어
+_NOT_ENTER_RATING|순위에 없음
+_SHOW|보기
+_WAITING_CONFIRM|아이템 받기 확인을 기다리는 중...
+_THANK_YOU_PURCHASE|구매해 주셔서 감사합니다! 아이템은 인벤토리에 있습니다
+_TRY_AGAIN|오류가 바생하였습니다, 나중에 다시 해 주세요.
+_CASE_CONTAIN_SUBJECTS|이 상자에서는 이하의 아이템 중 하나를 받을 수 있습니다:
+_CASE_IN_WORKSHOP|이 상자는 작업장 환전을 이용하여 받을 수 있습니다
+_CASE_JOB|이 상자는 임무를 완수하여 무료로 받을 수 있습니다
+_AVAILABLE_CASE|사용 가능한 상자:
+_SUPPLY THROUGH|재입고를 통해서 얻을 수 있습니다
+_KEY_ONE_OPEN|1회용 열쇠는 적당한 상자를 열 수 있습니다
+_COSTUME_CAN_COMBINED|캐릭터 코스튬 (다른 의상과 합칠 수 있습니다)
+_OPEN|열기
+_COST|가격:
+_BUY_MORE|구매 +1
+_GOTO|GOTO
+_NOT_MISS_COIN|구매하기에는 코인이 부족합니다
+_FILL_COINS|코인 추가
+_EXIT|나가기
+_NO_WEAPON|무기 없음
+_MASTERLY|명인답습니다!
+_PERFECTLY|완벽합니다!
+_EXCELLENT|대단합니다!
+_IDEALLY|괜찮습니다!
+_CLICK_SELECT_WEAPON|<color=yellow>E</color> 키를 눌러 세트를 변경합니다
+_WEAPON_CHANGE_REVIVAL|무기가 다음 부활때 적용됩니다
+_NO_AMMO|총알 없음
+_WON|승리
+_NEXT_GAME_WILLBE|다음 게임이 시작됩니다
+_GAME_OVER|게임이 완료되었습니다
+_TEAM_RED_WINS|레드 팀 승리
+_TEAM_BLUE_WINS|블루 팀 승리
+_DRAW|무승부
+_YOU_WERE_KILLED|사살당했습니다
+_WEAPON|무기
+_SPECIALIZATION|스페셜
+_YOU|나
+_ENEMY|적
+_HOLD_REDIAL_VIEWING|<color=yellow>H</color>를 눌러 보기
+_TO_TEAM|(팀)
+_TOTAL|총
+_WAITING_AUTH|AUTHORIZATION PENDING
+_PLAY|플레이
+_INVENTORY|인벤토리
+_MENU_WEAPON|무기
+_CHARACTER|캐릭터
+_CASES|상자
+_PROFILE|프로필
+_SHOP|상점
+_KEYS|열쇠
+_SUIT|복장
+_WORKSHOP|작업장
+_PARSE|환전
+_UPGRADE|업그레이드
+_BUYING_CASES|상자 팔기
+_TASKS|임무
+_COMBAT|전투
+_BONUSES|보너스
+_RATING|순위
+_OPTIONS|설정
+_GAME|게임
+_GRAPHICS|그래픽
+_CONTROL|컨트롤
+_SOUND|사운드
+_SELECT_NAME|이름 선택
+_COMPLETION|골드 구매
+_CLANS|클랜
+_MY_CLAN|내 클랜
+_FIND_CLAN|클랜 찾기
+_MESSAGES|메시지
+_CLICK_CHANGE_NAME|클릭해서 이름 변경
+_CLICK_FILL_COINS|클릭해서 골드 추가
+_CLICK_CONTINUE|마우스를 클릭해서 계속
+_AUTH_SUCCESSFULLY|AUTHORIZATION SUCCESSFUL
+_YOU_KILLED_PLAYER|Вас убил игрок
+_YOU_KILLED|Вы убили
+_SURVIVAL_TIME|Время выживания
+_MIN|мин
+_SERVER_AVAILABLE_WILL_BE|The next entry to the server will be available through
+_NOT_CONNECT_TIMEOUT|서버 연결에 실패하였습니다 (시간 초과)
+_PRESERVED|저장됨!
+_INCORRECT_LENGTH|맞지 않는 길이
+_MIX_LANGUAGES|언어 섞기
+_NAME_BUSY|누군가 사용한 이름입니다
+_YOU_TAKE|당신의 순위
+_PLACE_RATING|순위에 있음
+_MEMBERS|클랜원
+_INCORRECT_CLAN_NAME|맞지 않는 클랜 이름
+_CLAN_NOT_FOUND|클랜을 찾을 수 없습니다
+_CLAN_FOUND|클랜을 찾았습니다
+_NOT_CONNECT_LOST_CONNECTION|서버에 연결을 실패하였습니다 (연결 끊김)
+_ONLINE|온라인:
+_LOADING|불러오는 중
+_CLICK_OPEN_ADMIN_MENU_SERVER|<color=yellow>K</color>키를 눌러 서버 어드민 메뉴 열기
+_MENU_ADMIN_SERVER|서버 어드민 메뉴
+_SERVER_CONFIG|서버 설정
+_MAPS_MANAGER|맵 매니저
+_PLAYERS_MANAGER|플레이어 매니저
+_MAPS_LOADING|맵 불러오기
+_MAPS_AVAILABLE|사용 가능한 맵
+_MAPS_ROTATION|맵 대기열
+_ADD_TO_ROTATION|대기열에 추가
+_REQUEST_ADDING_TO_ROTATION|맵 추가 요청
+_TO_ROTATION|대기열으로
+_REMOVE_FROM_ROTATION|대기열에서 지우기
+_REQUEST_REMOVE_FROM_ROTATION|맵 지우기 요청
+_FROM_ROTATION|대기열에서
+_LAUNCH_MAP|맵 시작
+_REQUEST_LAUNCH_MAP|맵 시작 요청
+_KICK_FROM_SERVER|서버에서 추방
+_REQUEST_FOR_KICK_PLAYER|플레이어 추방 요청
+_PERMISSION_CHAT|채팅 거부/승인
+_REQUEST_SILENCE_PLAYER|플레이어 음소거/무 음소거 요청
+_PERMISSION_BUILDING|건축 거부/승인
+_REQUEST_BUILD_FOR_PLAYER|플레이어에게 건축 허가 요청
+_MODE_GAME|게임모드
+_VISIBILITY_SERVER|서버 유형
+_VISIBLE_EVERYONE|모두
+_HIDDEN|숨김
+_MODIFIERS|변경 사항
+_ALLOW_BREAK|부수기 허용
+_FORBIDDEN_BREAK|부수기 금지
+_ALLOW_BUILD|건축 허용
+_FORBIDDEN_BUILD|건축 금지
+_ALLOW_ATTACK|공격 허용
+_FORBIDDEN_ATTACK|공격 금지
+_LOCAL_MAPS|로컬 맵
+_MAPS_ON_SERVER|서버 맵
+_REMOVE_MAP|맵 지우기
+_REQUEST_REMOVE_MAP|맵 지우기 요청
+_SEND_TO_SERVER|서버로 보내기
+_DOWNLOAD_FROM_DISK|HDD에서 불러오기
+_REQUEST_PLAYER_TO_CLAN|클랜 참가 요청
+_CLANCHAT|클랜 채팅
+_PLAYERS|플레이어
+_LANGUAGE|언어
+_TAP_CONTINUE|TAP으로 계속
+_CROSSPLAY|크로스플랫폼 서버
+_FULL|최대
+_CHANGE_TEAM|팀 변경
+_QUICK_PLAY|빠른 플레이
+_SERVER_LIST|서버 목록
+_LOGOUT|프로필 로그 아웃
+_FPS_LIMIT|FPS 제한
+_FIELDOFVIEW|시야각
+_SENSITIVITY|민감도
+_SENSITIVITY_AIM|민감도 (조준)
+_LOGIN_GAME|게임 참가
+_LOGIN_VK|VK를 통해 참가
+_ORDER_LIST|ORDER LIST
+_CLAN_EXP|클랜 경험치
+_LEVEL_PROGRESS|레벨 진행도
+_CLAN_FRAGS|클랜 킬:
+_CLAN_DEATHS|클랜 사망:
+_PLAYER_STATS|플레이어 전적
+_PLAYER_GAINED|얻은 경험치:
+_UPLOAD_FILES|ЗАГРУЗКА ФАЙЛОВ
+_ROUND|라운드
+_ROUND_WON|라운드 승리
+_ROUND_LOSE|라운드 패배
+_ENEMY_ELIMINATED|적 전멸
+_ROUND_TIME_END|라운드 시간 초과
+_RESET|리셋
+_CHANGE_CONTROL|컨트롤 변경
+_FILTER_INFECTION|감염
+_PRESET|프리셋
+_RENDER_DISTANCE|렌더 거리
+_PERFOMANCE|퍼포먼스
+_QUALITY|퀄리티
+_PLACE_WEAPON_CASE_STEAM|같은 무기 3개를 환전합니다 <color=red>(무기는 영구적으로 파괴됩니다)</color>, 특별한 상자를 받게됩니다.
+_MOVEMENT|이동
+_WEAPONS|무기
+_CHAT|채팅
+_GAMEPLAY|게임플레이
+_FORWARD|전진
+_BACKWARD|후진
+_STRAFE_LEFT|왼쪽 이동
+_STRAFE_RIGHT|오른쪽 이동
+_PREVIOUS_WEAPON|이전 무기
+_ALL_CHAT|채팅 (전체)
+_TEAM_CHAT|팀 채팅
+_CHANGE_SET|세트 변경
+_SECOND_ATTACK|부가 공격 버튼
+_CROUCH|앉기
+_REQUIRED_LEVEL|레벨 {0} 필요
+_FILTER_FREEZETAG|얼음 땡
+_FILTER_PISTOL|권총전
+_FILTER_GUNGAME|건 게임
+_MODE_FREEZETAG|얼음 땡
+_MODE_PISTOL|권총전
+_MODE_GUNGAME|건 게임
